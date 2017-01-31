@@ -7,6 +7,8 @@ NTPBOX = " \
         htop \
         python3 \
         nano \
+	ntpbox-display \
+        gpsd \
 "
  
 IMAGE_INSTALL += " \
